@@ -1,2 +1,3 @@
 print("ruchitha")
+print("spt")
 
